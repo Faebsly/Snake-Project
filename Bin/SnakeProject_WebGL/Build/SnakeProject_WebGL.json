@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SnakeProject",
+"dataUrl": "SnakeProject_WebGL.data.unityweb",
+"asmCodeUrl": "SnakeProject_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "SnakeProject_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "SnakeProject_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#5A3F1A"
+}
